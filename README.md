@@ -1,7 +1,7 @@
 # 🛍️ E-Commerce Flutter App
 
 A modern, responsive E-Commerce application built using Flutter. This app features clean UI, network-based product and category fetching, and seamless user interaction across all major screens.
-![Ecommerce App Preview](mm-1.png)
+![Ecommerce App Preview](mm%20(1).png)
 
 ## ✨ Features
 - Splash screen with app branding
